@@ -1,3 +1,2 @@
 # iris-project
-
-# execute app.py
+execute app.py
